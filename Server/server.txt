@@ -1,2 +1,3 @@
 This is a txt from server branch.
-来自workSpace1对Server的修改与推送
+
+解决冲突
